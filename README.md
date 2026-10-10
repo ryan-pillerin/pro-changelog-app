@@ -76,8 +76,8 @@ Avoid introducing a UI framework that unnecessarily restricts customization.
 Clone the frontend repository and install its dependencies:
 
 ```bash
-git clone <frontend-repository-url>
-cd <frontend-project-directory>
+git clone git@github.com:ryan-pillerin/pro-changelog-app.git
+cd pro-changelog-app
 npm install
 ```
 
